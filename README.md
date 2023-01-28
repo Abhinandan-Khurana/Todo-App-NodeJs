@@ -1,6 +1,6 @@
 # Todo-App-NodeJs
 
-# This simple application is hosted on **Microsoft Azure** and has **Jenkins** **CI/CD** with GitHub Integration implemented.
+# This application is hosted on the **Microsoft Azure** platform and features **Jenkins** continuous integration (CI) and continuous deployment (CD) with integration to GitHub.
 
 ## To view my app [Click Here](http://labs.abhinandankhurana.studio:8000/) 
 
