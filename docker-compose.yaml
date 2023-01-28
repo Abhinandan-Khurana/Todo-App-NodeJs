@@ -1,0 +1,7 @@
+version: '3.3'
+
+services:
+  web:
+    image: 'lousifer007/node-todo-test:latest'
+    ports:
+      - "8000:8000"
