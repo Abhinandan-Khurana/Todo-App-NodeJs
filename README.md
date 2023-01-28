@@ -27,7 +27,7 @@
 
 <li> Then start the server using <code> node index.js </code> </li>
 
-<li> Navigate to your browser <code> http://localhost:3000/ </code> to view the app </li>
+<li> Navigate to your browser <code> http://localhost:8000/ </code> to view the app </li>
 </ol>
 
 
