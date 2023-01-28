@@ -1,4 +1,11 @@
 # Todo-App-NodeJs
+
+# This simple application is hosted on **Microsoft Azure** and has **Jenkins** **CI/CD** with GitHub Integration implemented.
+
+## To view my app [Click Here](http://labs.abhinandankhurana.studio:8000/) 
+
+<hr>
+
 <h2> A simple To Do List application built with Node.js and Express</h2>
 
 <p> Nodejs application that let's you add and complete task on a single page, storing both new and completed task in a different array. This appllication makes use of: </p>
@@ -23,4 +30,4 @@
 <li> Navigate to your browser <code> http://localhost:3000/ </code> to view the app </li>
 </ol>
 
-<p> To view my app - <a href="http://labs.abhinandankhurana.studio:8000/" target="_blank">Click Here</a>
+
