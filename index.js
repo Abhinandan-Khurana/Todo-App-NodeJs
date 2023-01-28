@@ -44,5 +44,5 @@ app.get("/", function(req, res) {
 
 //set app to listen on port 3000
 app.listen(8000, function() {
-    console.log("server is running on port 8000");
+    console.log("server is running on port 8000!");
 });
