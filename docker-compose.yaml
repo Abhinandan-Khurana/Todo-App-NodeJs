@@ -1,7 +1,7 @@
-version: '3.3'
-
+version: '3'
 services:
-  web:
-    image: 'lousifer007/node-todo-test:latest'
+  app:
+    build: .
     ports:
       - "8000:8000"
+    command: ["node","index.js"]
