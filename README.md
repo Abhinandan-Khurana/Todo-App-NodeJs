@@ -23,4 +23,4 @@
 <li> Navigate to your browser <code> http://localhost:3000/ </code> to view the app </li>
 </ol>
 
-<p> To view my app - <a href="http://IP:3333" target="_blank">Click Here</a>
+<p> To view my app - <a href="http://labs.abhinandankhurana.studio:8000/" target="_blank">Click Here</a>
