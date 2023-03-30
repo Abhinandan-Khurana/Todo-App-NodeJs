@@ -2,7 +2,7 @@
 
 # This application is hosted on the **Microsoft Azure** platform and features **Jenkins** continuous integration (CI) and continuous deployment (CD) pipeline with integration to GitHub.
 
-## To view my app [Click Here](http://labs.abhinandankhurana.studio:8000/) 
+## To view my app [Click Here](http://labs.abhinandankhurana.studio:8000) 
 
 <hr>
 
